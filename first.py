@@ -1,1 +1,1 @@
-a = "hello omkar"
+a  = "omkar"
